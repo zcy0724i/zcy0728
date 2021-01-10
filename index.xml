@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>赵晨阳</title>
+    <link>https://github.com/zcy0728/zcy0728.git/</link>
+    <description>Recent content on 赵晨阳</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 10 Jan 2021 19:22:41 +0800</lastBuildDate><atom:link href="https://github.com/zcy0728/zcy0728.git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://github.com/zcy0728/zcy0728.git/post/test/</link>
+      <pubDate>Sun, 10 Jan 2021 19:22:41 +0800</pubDate>
+      
+      <guid>https://github.com/zcy0728/zcy0728.git/post/test/</guid>
+      <description>大风起兮云飞扬</description>
+    </item>
+    
+  </channel>
+</rss>
